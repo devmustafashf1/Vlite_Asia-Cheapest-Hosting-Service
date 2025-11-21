@@ -1,0 +1,10 @@
+-Somone upload url 
+    -we clone repo
+    -we upload repo somewhere
+
+-Build
+    -we get code where we store
+    - we build it
+
+-Deploy
+    -we serve html css js files somewhere
